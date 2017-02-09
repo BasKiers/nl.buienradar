@@ -4,8 +4,8 @@
   "compatibility": ">=0.8",
   "category": "internet",
   "name": {
-    "en": "Buienradar stable",
-    "nl": "Buienradar stable"
+    "en": "Buienradar BETA",
+    "nl": "Buienradar BETA"
   },
   "description": {
     "en": "Informs you about the expected rain",
